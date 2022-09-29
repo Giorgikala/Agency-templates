@@ -1,0 +1,107 @@
+.arrowdown{
+    font-size: 30px;
+    bottom: 4%;
+    cursor: pointer;
+}
+.maintitleabout{
+    font-size: 25px !important;
+    color: rgba(138, 135, 135, 0.404);
+}
+.maintitleabout::first-letter{
+    font-size: 50px;
+    color: grey;
+}
+#portfolio{
+    background-color: rgba(241, 206, 206, 0.842) !important;
+}
+
+
+#carouselExampleCaptions{
+    height: 300px !important;
+    padding-top: 50px !important;
+}
+.carousel-item {
+    height: 300px !important;
+}
+.carousel-caption{
+    bottom: 5.23rem;
+}
+.carousel-indicators{
+    z-index: 0;
+}
+.team-member img {
+    border: none;
+    width: 300px !important;
+  
+}
+.text-muted {
+    text-align: left;
+}
+.team-member h4 {
+    text-align: left !important;
+    padding-left: 25px !important;
+}
+.team-member p {
+    padding-left: 25px !important; 
+}
+.loremtext{
+    text-align: center !important;
+}
+.maintext2{
+    text-align: center !important;
+}
+.section-subheading {
+    text-align: center;
+}
+
+.team-member span {
+    text-align: left !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    display: inline-block;
+    
+}
+.team-member{
+    text-align: left !important;
+    padding-left: 8px;
+}
+.frommain{
+    flex-direction: column !important;
+    align-items: end !important;
+}
+.form-control{
+    background-color: #32383a;
+    border: 1px solid rgb(158, 158, 28) !important;
+    margin-top: 10px !important;
+}
+
+.footericons{
+    font-size: 40px;
+    color: white
+}
+.icongreen{
+    color: rgb(204, 204, 24);
+}
+.addres-street{
+    padding-left: 40px;
+    font-size: 40px;
+    color: white;
+}
+.bakerinfo{
+    font-size: 40px;
+    color: white;
+}
+#submitButton{
+    border-radius: 40px !important;
+    transform: translateX(100px) !important;
+
+}
+.btnsub{
+    border-radius: 40px !important;
+    background-color: transparent !important;
+    cursor: pointer;
+    display: block !important;
+    display: inline-block;
+    
+}
